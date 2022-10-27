@@ -6,13 +6,13 @@
 // print(variable)
 
 // void main() {
-//     String nombre = "Alex";
+//     String nombre = "Toño";
 //     String apellido;
 //     int edad = 50;
 //     int aActual = 2022
-//     int aNacimiento = 1971;
+//     int aNacimiento = 1981;
 //     double gravedad = 9.81;
-//     apellido = "Mata";
+//     apellido = "Fernández";
 //     print("Hola $nombre $apellido tienes $edad años");
 //     print("Hola $nombre $apellido tines ${aActual-aNacimiento} años");
 //     print(gravedad);
@@ -32,11 +32,11 @@
 // }
 
 // String getNombre() {
-//   return "Alex";
+//   return "Toño";
 // }
 
 // String getApellido() {
-//   return "Mata"
+//   return "Fdz"
 // }
 
 // void main () {
