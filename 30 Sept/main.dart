@@ -8,7 +8,7 @@
 // void main() {
 //     String nombre = "Toño";
 //     String apellido;
-//     int edad = 50;
+//     int edad = 41;
 //     int aActual = 2022
 //     int aNacimiento = 1981;
 //     double gravedad = 9.81;
